@@ -1,0 +1,17 @@
+1. add details of students 
+2. generate certificate if attendance is 
+above certain percentage
+3. create template for certificate
+4. 
+
+
+LOW FIDELITY DESIGN:
+1. webpage scollable 
+#header
+header with black screen 
+background image hvf factory 
+add text as hvf intern programme
+2. #table 
+s.no. , photo, name, address , phone number
+
+
